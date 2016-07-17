@@ -4,7 +4,7 @@ title:新鲜感
 date: 2016-07-17
 categories: blog
 tags: [dairy]
-
+description: 每天记录一点点。
 ---
 
 对于新的事物我总是充满了新鲜感，总是喜欢全身心的投入进去，喜欢折腾，喜欢探索。
